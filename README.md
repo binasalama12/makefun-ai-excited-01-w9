@@ -4,7 +4,7 @@
 
 # THE BIG SHAKE
 
-He had just launched himself out of the little garden pool, soaked to the skin, and picked the most dramatic possible second to shake — right in front of the camera and right in front of his little sister. She threw both hands up laughing as the spray hit her, and he just grinned through it, ears flying, like this was the best game ever invented. For one frozen instant the droplets hang around his face in a sparkling crown, and nobody in the frame is pretending to be calm.
+He had just launched himself out of the little garden pool, soaked to the skin, and picked the most dramatic possible second to shake — right in front of the camera and right in front of his little sister. She threw both hands up laughing as the spray hit her, and he just grinned through it, ears flying, like this was the best game ever invented. For one frozen instant the droplets hang around his face in a sparkling crown, and nobody in the frame is pretending to be calm. You can almost hear it — the rattle of water flying off a tiny body, a kid shrieking with laughter, and a puppy who would happily jump straight back in and do it all again.
 The photo was graded gently and saved as entry.png, and main.ts copies it while recording its sha256 deterministically so the entry is exactly reproducible.
 
 ## Why it excites
